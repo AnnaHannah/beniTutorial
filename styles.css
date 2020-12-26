@@ -1,1 +1,11 @@
 /*Das ist ein Kommentar*/
+
+#vmane {
+	float: middle; 
+	clear: both; 
+	margin: 2px auto;
+}
+img #maneBild {
+	width: 100px;
+	height: auto;
+}
