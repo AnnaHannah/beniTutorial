@@ -1,4 +1,4 @@
-/*Das ist ein Kommentar*/
+/*Das hier sind die Styles der einzelnen Abschnitte/Elemente */
 
 #vmane {
 	float: middle; 
@@ -9,3 +9,22 @@ img #maneBild {
 	width: 100px;
 	height: auto;
 }
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
