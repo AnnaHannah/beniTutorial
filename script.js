@@ -9,7 +9,7 @@ function printDiv(x) {
      document.body.innerHTML = originalContents;
 }
 
-function myFunction() {
+function myDarkmode() {
    var element = document.body;
    element.classList.toggle("dark-mode");
 }
